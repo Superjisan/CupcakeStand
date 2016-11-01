@@ -18,7 +18,7 @@ body {
 #counterTop{
   height: 50px;
   width: 50px;
-  background-color: green;
+  background-color: white;
   background-position: -100px -160px;
   z-index: 2;
   border-color: red;
