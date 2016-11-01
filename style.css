@@ -1,8 +1,8 @@
 
-body, html {
+body {
   width: 82%; height: 97%;
   margin: 0;
-  background-image: url(/img/CUPCAKE STORE-01.jpg);
+  background-image: url('img/CUPCAKE STORE-01.jpg');
   background-size: cover;
   background-position: center;
   image-rendering:optimizeSpeed;
@@ -28,6 +28,7 @@ body, html {
   border-style: solid;
 
 }
+
 /* img.resize{
   width: 540px;
   height: auto;
